@@ -1,0 +1,18 @@
+.cardStyle{
+    width: 200px;
+    color: black;
+    font-size: 15px;
+}
+
+.chalkBoard{
+    width: 250px;
+    margin: 50px auto;
+}
+
+#button{
+    display:inline-block;
+    width: 250px;
+    margin: auto;
+    background-color: red;
+    color: white;
+}
